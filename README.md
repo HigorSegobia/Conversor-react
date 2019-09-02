@@ -1,2 +1,4 @@
 # Conversor_react
-EM DESENVOLVIMENTO
+O conversor utiliza a API: http://free.currencyconverterapi.com
+
+Possibilitando que a convertão esteja sempre atualizada.
