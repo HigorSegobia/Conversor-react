@@ -5,3 +5,27 @@
     background: GRAY;
     border-radius: 40px;
 }
+
+.button {
+    background-color: #555555;
+    border: none;
+    color: white;
+    padding: 10px 24px;
+    box-align: center;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    border-radius: 8px;
+  }
+
+  .button:hover {
+    background-color: #4CAF50; /* Green */
+    color: white;
+  }
+
+  .button:active {
+    background-color: #3e8e41;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
